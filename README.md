@@ -234,3 +234,6 @@ This repository serves as the official landing page for Carom3D. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Carom3D today!**
+
+---
+**Last updated:** 2026-09-11 14:04:25 UTC
