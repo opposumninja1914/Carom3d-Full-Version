@@ -236,4 +236,4 @@ This repository serves as the official landing page for Carom3D. The software is
 **Get the most recent version of Carom3D today!**
 
 ---
-**Last updated:** 2026-10-31 22:13:13 UTC
+**Last updated:** 2026-11-01 01:52:50 UTC
